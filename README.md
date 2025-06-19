@@ -24,8 +24,6 @@ A self-supervised deep learning approach to detect anomalies in blood cell image
 [Blood Cell Image Dataset](https://www.kaggle.com/datasets/unclesamulus/blood-cells-image-dataset) from Kaggle with 8 cell types:
 - Normal: `neutrophil`, `lymphocyte`, `monocyte`, `eosinophil`, `basophil`, `erythroblast`, `platelet`, `Ig` cells
 
-![Sample Cells](https://i.imgur.com/JQ6Yc7P.png)
-
 ---
 
 ## 🚀 Results
