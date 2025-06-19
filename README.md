@@ -8,6 +8,8 @@
 
 A self-supervised deep learning approach to detect anomalies in blood cell images using contrastive learning (SimCLR) and Deep SVDD. Achieves **99% AUC-ROC** by learning robust representations of normal cells and flagging deviations.
 
+[Download Model from Google Drive](https://drive.google.com/file/d/1aHpoNRodYJ1KLcWwXhshgiFMlNRYkYcK/view?usp=sharing)
+
 ---
 
 ## 🩸 Key Features
