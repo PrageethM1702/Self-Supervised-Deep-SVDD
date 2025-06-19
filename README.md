@@ -46,8 +46,12 @@ A self-supervised deep learning approach to detect anomalies in blood cell image
 ## 💻 Usage
 
 ```bash
-# Train
-python train.py --data_dir ./bloodcells_dataset --epochs 15
+# Single image
+python run.py --input_path ./sample.jpg
 
-# Evaluate
-python evaluate.py --model_path model.pth --data_dir ./test_data
+# Folder of images
+python run.py --input_path ./test_images/
+
+# Show image preview
+python run.py --input_path ./test_images/ --show
+
